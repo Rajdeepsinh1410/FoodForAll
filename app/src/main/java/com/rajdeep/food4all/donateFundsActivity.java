@@ -89,7 +89,7 @@ public class donateFundsActivity extends AppCompatActivity {
 
         Checkout checkout = new Checkout();
 
-        checkout.setKeyID("rzp_live_PnnV5JWqKyp6bY");
+        checkout.setKeyID("#");
 
         checkout.setImage(R.drawable.icon_events_prev_ui);
 
